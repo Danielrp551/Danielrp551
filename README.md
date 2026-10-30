@@ -15,4 +15,4 @@ data platforms, ML models and LLM agents, with evals gating what ships.
 [query-plugins](https://github.com/Danielrp551/query-plugins) ·
 [claudio](https://github.com/Danielrp551/claudio)
 
-[LinkedIn](https://www.linkedin.com/in/daniel-rivas-pareja)
+**Portfolio:** [daniel-rivas.vercel.app](https://daniel-rivas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/daniel-rivas-pareja)
